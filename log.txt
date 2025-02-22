@@ -1,0 +1,17 @@
+2024-10-23 14:32:05 [PID: 1234] [TID: 5678] [TAG: INFO] [PACKAGE: app.module] 
+Application started successfully.
+
+2024-10-23 14:32:06 [PID: 1234] [TID: 5678] [TAG: WARNING] [PACKAGE: app.module] 
+WARNING: Low disk space warning.
+
+2024-10-23 14:32:07 [PID: 1234] [TID: 5678] [TAG: ERROR] [PACKAGE: app.module] 
+Failed to connect to database.
+
+2024-10-23 14:32:08 [PID: 1234] [TID: 5678] [TAG: DEBUG] [PACKAGE: app.module] 
+Debugging user login process.
+
+2024-10-23 14:32:09 [PID: 1234] [TID: 5678] [TAG: FATAL] [PACKAGE: app.module] 
+Unhandled exception occurred. Shutting down.
+New Log Entry: Data appended at 2:00PM
+
+ New Log Entry: Data appended at  2024-10-23 2:00PM [PID: 1234] [TID: 5678] [TAG: WARNING] [PACKAGE: app.module]
